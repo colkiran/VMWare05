@@ -1,0 +1,251 @@
+Python
+------
+PYTHON IS OPEN SOURCE TECHNOLOGY.			Source code is free of cost
+---------------------------------
+
+1. Syntax is simple 
+2. Dynamic data type
+3. Support in the form of Libraries
+
+Desktop App		-> Python and TK (tool kit)
+Web App			-> MVC Pattern, RESTful Service and Microservices
+					FLASK, Django, Pyramid 
+Mobile App		-> Kivy 
+Testing			-> pytest, selenium
+ETL				-> petl
+
+Data Science => Data Analytics, ML, AI, Statistics
+
+
+Python
+------
+1. Cpython		-	currently working
+
+2. Jython		-	Python to Java code
+
+3. Iron Python	-	Python code to dotnet libraries
+
+
+versions 
+---------
+2.x 	3.x
+---		----
+
+print "Hello"		=>		print("Hello")
+
+Editor
+------
+IDLE -	integrated development environment
+
+Notepad++
+
+pycharm CE - open source
+
+VS code - open source
+
+sublime text 
+
+eclipse - pydev
+
+jupyter notebook
+
+google colab
+
+---------------------------------------------------------------------------------
+
+Python 3.x (3.10)
+-----------------
+1. SDK
+2. Python Shell (interactive environment) 
+3. IDLE
+
+Overloaded operators
+--------------------
++	= addition and concatenation
+
+*	= multiplication and to print a string n number of times
+
+
+module - imp
+	method - reload
+
+Coding Rules
+------------
+
+1. #!	- Shebang -> its used to specify the path of python executable
+
+
+Comments
+--------
+#  - used to comment
+
+Strings
+-------
+strings are stored in 
+
+	single line
+	-----------
+	a. ' single quotes '
+	b. " double quotes "
+
+	multi line
+	----------
+	a. """ double qouted multiline """
+	b. ''' single quoted multiline '''
+
+doc strings -> used to specify the use of a function or a class
+
+
+def fun_name():
+
+""" 
+doc
+   string
+"""
+
+indentation
+-----------
+we don't use paranthesis in many cases
+
+1. functions
+2. if conditions
+3. loops
+4. classes
+
+
+def fun():
+	print("this line belongs to the function")
+	
+	for i in range(1, 10):
+		print("this is for loop code")
+
+		if (i % 2 == 0):
+			print("this is if codition code")
+			print(i)
+		
+		print("this is for loop code")
+		print("this is for loop code")
+
+	print("this line belongs to the function")
+	print("this line belongs to the function")
+
+print("this line belongs to the __main__ module")
+print("this line belongs to the __main__ module")
+
+
+Primitive Data Types
+---------------------
+1. Numbers
+	a. integers
+	b. float
+	c. complex
+2. Strings
+3. Boolean  - (True, False)
+
+Numbers
+-------
+
+
+Loops and Control Structures
+----------------------------
+
+Control Structures
+------------------
+1. if conditions
+2. select case
+
+
+loops
+-----
+1. for loop
+2. while loop
+
+PRINT
+-----
+print(data, sep="", end="\n")
+
+
+Strings
+-------
+1. strings are immutable	
+2. strings are subsrciptable
+		
+
+
+class str:
+
+	def getitem(self)
+
+	def setitem(self, val):		will not be available, hence it becomes immutable
+
+TypeError: 'str' object does not support item assignment
+		
+
+Data Structures 
+---------------
+1. lists			=> similar Arrays
+2. dictionary
+3. tuple
+4. set
+
+
+List
+----
+1. Lists are ordered collection
+2. Lists are subscriptable
+3. Lists are mutable
+4. are enclosed in []
+
+
+
+
+
+
+
+
+
+
+
+problems
+--------
+1. pattern
+-------
+
+1 2 3 4 5
+ 1 2 3 4
+  1 2 3
+   1 2
+    1
+   2 1
+  3 2 1
+ 4 3 2 1
+5 4 3 2 1
+
+
+2. find all prime numbers between 150 and 50 and also find the count of prime numbers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

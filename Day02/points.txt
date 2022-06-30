@@ -1,0 +1,97 @@
+List
+----
+a. append(val) -> can add one element into a list and at the end of the list
+
+b. extend ->
+
+c. insert ->
+
+
+Dictionary
+----------
+is also called as associative arrays
+
+1. dictioanaries are unordered collection
+2. are mutable
+3. are enclosed in {}
+
+
+
+	 0  1  2  3  4		
+a1 = a, b, c, d, e
+
+print(a1[0])
+
+
+d1 = {0: 'a', 1: 'b', 2: 'c', 3: 'd', 4: 'e'}
+
+keys
+----
+1. keys are user-defined 
+2. keys are always unique
+
+d1 = {'k1': 'a', 'k2': 'b', 'k3': 'c'}
+
+
+Tuples
+------
+1. ordered collection
+2. immutable
+3. subscriptable
+4. enclosed in ()
+
+
+sets
+-----
+1. unordered collection
+2. elements of a set is unique
+3. not subscriptable
+4. enclosed in {}
+5. mutable
+
+
+Functions
+---------
+using recursive calls find the factorial of a number
+
+lambdas
+-------
+1. anonymous function
+2. with one expression -> result of expression will be the return value
+
+x = lambda var1, var2, var3......: expression
+res = x(10,20,50,80...)
+
+
+Comprehension
+-------------
+iterating through a collection (list, dictionary) using lambda syntaxes
+
+
+scope
+-----
+1. local		-	variable declared inside a function is a local varaible
+2. global		-	variables declared outside the function is a global varaible
+3. non local
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -29,7 +29,7 @@ ply2 = Player.CreatePlayer("Rahul", "Dravid", 31)
 ply2.get_details()
 
 print("-" * 40)
-print("Player :", Player.team)
+print("Player Before:", Player.team)
 Player.UpdatePlayer("RCB")
 
-print("Player :", Player.team)
+print("Player After:", Player.team)

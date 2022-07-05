@@ -1,0 +1,158 @@
+Bhavana
+-------
+Mera Bharat mahan
+Hello....
+Apples from Ooty...
+Hi....
+India is great.....
+
+Bhuneshwari
+-----------
+Hello
+apples from ooty
+Hi
+-----------------
+Mera Bharat mahan
+Oranges from kanpur
+India is great....
+
+
+
+Write a decorator that will calculate the time taken by the function to execute
+--------------------------------------------------------------------------------
+
+
+
+OOP's
+-----
+1. Inheritance			-	
+
+Withdraw
+--------
+a. self cheque
+b. DD
+c. cheque
+
+Debit Card::Withdraw
+----------
+
+2. Polymorphism
+
+
+3. Encapsulation
+
+
+4. Abstraction
+
+operator overloading
+--------------------
+operator => method
+
++ => __add__ method
+
+magic methods
+-------------
+
+Threads
+-------
+
+what is a thread?
+
+python does not support multithreading
+--------------------------------------
+
+
+All images downloaded in 15.32 secs
+
+
+
+Regular Expressions
+--------------------
+*	- series of characters
+?	- single character
+
+
+dir *.txt 		=> filename - 1 char to n chars
+dir ?e*.py 		=> filename - 2nd character is e and extension is .py
+
+regular expression
+------------------
+library - re
+
+search
+match
+findall
+finditer
+compile
+
+Book - Mastering Regular Expression - orielly
+
+Basic Regular Expression 
+------------------------
+.		-	single character
+^		-	begning of the string
+$		-   end of the string
+
+*		-	zero or more occurances
+?		-	zero or one occurance
++		-	one or more occurances
+{n}		-   exactly n times
+{n,}	-	min n max any times
+{n, m}  -  min n max m
+()		-   Grouping
+[]		-	character class
+|		-	Alternation
+\		-	supressing the regular expression
+
+
+LCNO - KAR - 05 - 2013 - 0001
+
+LCNO - same
+
+KAR = KER, APN, TND, TLS, MAH, GOA
+
+05 - RTO - [01 - 73]  (no 00)
+
+2013 - 2000+
+
+0001  - 0001 - 9999 (no 0000)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
